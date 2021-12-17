@@ -21,6 +21,7 @@ My [adventjs.dev](https://adventjs.dev) 2021 solutions.
 | 14  | En busca del reno perdido                    | [challenge](https://adventjs.dev/challenges/14) | [code](./src/day-14.js) |
 | 15  | El salto perfecto                            | [challenge](https://adventjs.dev/challenges/15) | [code](./src/day-15.js) |
 | 16  | Descifrando los números...                   | [challenge](https://adventjs.dev/challenges/16) | [code](./src/day-16.js) |
+| 17  | La locura de enviar paquetes en esta época   | [challenge](https://adventjs.dev/challenges/17) | [code](./src/day-17.js) |
 
 ## Acknowledgements
 
