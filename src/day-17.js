@@ -39,17 +39,13 @@
 export default function countPackages(carriers, carrierID) {
   const lookupIds = new Set()
 
+  let total = 0
   for (const [id, , deps] of carriers) {
     if (lookupIds.has(id) || id === carrierID) {
       for (const dep of deps) lookupIds.add(dep)
-      lookupIds.add(id)
+      const [, packages] = carriers.find(([i]) => i === id)
+      total += packages
     }
-  }
-
-  let total = 0
-  for (const id of lookupIds) {
-    const [, packages] = carriers.find(([i]) => i === id)
-    total += packages
   }
 
   return total
