@@ -22,6 +22,14 @@ My [adventjs.dev](https://adventjs.dev) 2021 solutions.
 | 15  | El salto perfecto                            | [challenge](https://adventjs.dev/challenges/15) | [code](./src/day-15.js) |
 | 16  | Descifrando los números...                   | [challenge](https://adventjs.dev/challenges/16) | [code](./src/day-16.js) |
 | 17  | La locura de enviar paquetes en esta época   | [challenge](https://adventjs.dev/challenges/17) | [code](./src/day-17.js) |
+| 18  | El sistema operativo de Santa Claus          | [challenge](https://adventjs.dev/challenges/18) | [code](./src/day-18.js) |
+| 19  | ¿Qué deberíamos aprender en Platzi?          | [challenge](https://adventjs.dev/challenges/19) | [code](./src/day-19.js) |
+| 20  | ¿Una carta de pangramas? ¡QUÉ!               | [challenge](https://adventjs.dev/challenges/20) | [code](./src/day-20.js) |
+| 21  | La ruta con los regalos                      | [challenge](https://adventjs.dev/challenges/21) | [code](./src/day-21.js) |
+| 22  | ¿Cuantos adornos necesita el árbol?          | [challenge](https://adventjs.dev/challenges/22) | [code](./src/day-22.js) |
+| 23  | ¿Puedes reconfigurar las fábricas para no parar de crear regalos?   | [challenge](https://adventjs.dev/challenges/23) | [code](./src/day-23.js) |
+| 24  | Comparando árboles de Navidad                | [challenge](https://adventjs.dev/challenges/24) | [code](./src/day-24.js) |
+| 25  | El último juego y hasta el año que viene     | [challenge](https://adventjs.dev/challenges/25) | [code](./src/day-25.js) |
 
 ## Acknowledgements
 
