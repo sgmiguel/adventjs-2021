@@ -1,0 +1,1 @@
+export default letter => [...new Set(letter.match(/[a-záéíóú]/ig))].length > 26
